@@ -239,3 +239,6 @@ This repository serves as the official landing page for Silverlight. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Silverlight today!**
+
+---
+**Last updated:** 2026-09-08 16:14:56 UTC
