@@ -241,4 +241,4 @@ This repository serves as the official landing page for Silverlight. The softwar
 **Get the most recent version of Silverlight today!**
 
 ---
-**Last updated:** 2026-09-13 22:58:45 UTC
+**Last updated:** 2026-09-14 00:56:20 UTC
